@@ -1,1 +1,1 @@
-# perfumes
+This little project is based on a Flebox exercise from the Odin project Foundations Course. It aims at replicating a webpage structure to learn more about this module and implement some of its features to keep on improving on my skills. It will briefly introduce a few fragrances.
