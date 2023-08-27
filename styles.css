@@ -7,18 +7,24 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 5px solid black;
+    gap: 18px;
 }
 
+.perfume {
+    font-style: italic;
+    padding: 20px;
+}
 
 .title {
     font-size: 60px;
     font-weight: 900;
+    color: rgb(220, 139, 34);
+    margin: 0px;
+    padding: 0px;
 }
 
 .size {
     max-width: 200px;
-    border: 3px solid rgb(184, 18, 184);
 }
 
 img {
