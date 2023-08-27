@@ -5,12 +5,15 @@
 body {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
+    background-color: rgb(228, 150, 122);
 }
 
 .title {
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 900;
-    margin-bottom: 100px;
+    padding-bottom: 40px;
+    margin: 0px;
+    color: rgb(64, 62, 59);
 }
 
 .size {
@@ -19,7 +22,7 @@ body {
 
 .noteheaders {
 
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     color: rgb(43, 40, 40);
     margin-bottom: 40px;
@@ -32,6 +35,6 @@ body {
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 65px;
+    height: 65px;
   }
