@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
@@ -6,15 +10,25 @@ body {
 .title {
     font-size: 60px;
     font-weight: 900;
+    margin-bottom: 100px;
 }
 
 .size {
     max-width: 200px;
 }
 
+.noteheaders {
+
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(43, 40, 40);
+    margin-bottom: 40px;
+}
 
 .topnotescontainer {
     display: flex;
+    justify-content: center;
+    gap: 30px;
 }
 
 img {
