@@ -1,0 +1,18 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.title {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.size {
+    max-width: 200px;
+}
+
+
+.topnotescontainer {
+    display: flex;
+}
