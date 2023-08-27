@@ -16,3 +16,8 @@ body {
 .topnotescontainer {
     display: flex;
 }
+
+img {
+    width: 100px;
+    height: 100px;
+  }
