@@ -5,14 +5,16 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
+    background-color: #4c2a2a;
 }
 
 .header {
     font-size: 90px;
-    color: maroon;
+    color: rgb(168, 119, 119);
     font-weight: 900;
     display: flex;
     justify-content: center;
+    font-style: italic;
 }
 
 .content {
@@ -41,7 +43,7 @@ img {
 }
 
 .size {
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     width: 500px;
     display: flex;
     gap: 16px;
@@ -51,4 +53,9 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-style: italic;
 }
+
+a:hover {
+    background-color: rgb(3, 16, 5);
+  }
