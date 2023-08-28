@@ -30,6 +30,7 @@ body {
     background-color:#666;
     display: flex;
     justify-content: center;
+    color: #d4d49b;
 }
 
 img {
@@ -54,8 +55,10 @@ img {
     justify-content: center;
     align-items: center;
     font-style: italic;
+    color: #d4d49b;
+    font-weight: 800;
 }
 
 a:hover {
-    background-color: rgb(3, 16, 5);
+    background-color: #FFFFE0;
   }
